@@ -1,0 +1,3 @@
+Dataset: DeepPCB
+Source: https://github.com/tangsanli5201/DeepPCB
+Dataset files are not included in this ZIP. Follow the provider's licence.
